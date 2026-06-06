@@ -57,7 +57,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: false
+posts_in_search: true
 bib_search: false
 
 # Dimensions
@@ -91,8 +91,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: # blog_name will be displayed in your blog page
-blog_description: # leave blank — blog is unpublished
+blog_name: Notes
+blog_description: Thoughts on AI, agents, and the platforms that make them useful.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

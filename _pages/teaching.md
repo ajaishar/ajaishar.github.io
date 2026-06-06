@@ -1,16 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false
-nav_order: 6
-calendar: true
-published: false
+permalink: /courses/
+title: courses
+description: Courses I teach on model architectures, agentic systems, and applied AI.
+nav: true
+nav_order: 2
 ---
-
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
 {% include courses.liquid %}
