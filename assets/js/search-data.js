@@ -9,14 +9,39 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
+  },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-courses",
+          title: "courses",
+          description: "Courses I teach on model architectures, agentic systems, and applied AI.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/courses/";
+          },
+        },{id: "nav-cv",
           title: "CV",
           description: "Ajai Sharma — Chief Product and Technology Officer at CloudFactory. AWS SageMaker, McKinsey, Holomorphic AI Labs. Berkeley, Wharton.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-joined-aws-as-head-of-product-deep-learning-sagemaker-helping-launch-and-scale-what-became-one-of-the-largest-ai-platforms-in-the-world",
+        },{id: "post-starting-these-notes",
+        
+          title: "starting these notes",
+        
+        description: "A quick note on why this blog exists and what to expect.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/welcome/";
+          
+        },
+      },{id: "news-joined-aws-as-head-of-product-deep-learning-sagemaker-helping-launch-and-scale-what-became-one-of-the-largest-ai-platforms-in-the-world",
           title: 'Joined AWS as Head of Product, Deep Learning — SageMaker, helping launch and...',
           description: "",
           section: "News",},{id: "news-cofounded-holomorphic-ai-labs-building-enterprise-grade-ai-agents-and-a-genai-reasoning-api-platform",
@@ -25,7 +50,12 @@ ninja.data = [{
           section: "News",},{id: "news-joined-cloudfactory-as-chief-product-and-technology-officer-leading-the-genai-agent-platform-ml-science-and-forward-deployed-engineering-teams",
           title: 'Joined CloudFactory as Chief Product and Technology Officer, leading the GenAI Agent Platform,...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "teachings-model-architectures",
+          title: 'Model Architectures',
+          description: "A practitioner-oriented tour of modern model architectures — from the transformer to mixture-of-experts, state-space models, and the design choices that drive cost and capability in production agent systems.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/courses/model-architectures/";
+            },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
