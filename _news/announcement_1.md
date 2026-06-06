@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-07-01 09:00:00-0700
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Joined [CloudFactory](https://www.cloudfactory.com/) as **Chief Product and Technology Officer**, leading the GenAI Agent Platform, ML Science, and Forward Deployed Engineering teams. 🚀

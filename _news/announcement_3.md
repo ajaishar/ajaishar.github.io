@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-03-01 09:00:00-0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Joined [AWS](https://aws.amazon.com/sagemaker/) as **Head of Product, Deep Learning — SageMaker**, helping launch and scale what became one of the largest AI platforms in the world.

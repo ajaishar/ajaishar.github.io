@@ -1,189 +1,161 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Ajai Sharma
+  label: Chief Product and Technology Officer, CloudFactory
+  email: ajai.sharma@gmail.com
+  location: Los Altos, California, United States
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    AI product and technology executive with 15+ years of experience building, scaling, and exiting AI businesses.
+    Currently CPTO at CloudFactory, leading the GenAI Agent Platform, ML Science, and Forward Deployed Engineering teams.
+    Previously cofounder/CEO of Holomorphic AI Labs, Head of Product for AWS SageMaker, and an Expert at McKinsey & Company.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: ajaisharma1
+    - network: GitHub
+      username: ajaishar
+    - network: X
+      username: ajaislife
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
+    city: Los Altos
     region: California
-    postalCode: CA 94115
     countryCode: US
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: CloudFactory
+        position: Chief Product and Technology Officer — GenAI Agent Platform
+        location: Los Altos, CA
+        start_date: 2025-07-01
+        summary: >
+          Lead 300+ global staff across Engineering, ML Research, Product Management, Architecture, DevOps, and Solutions.
+          Own platform vision, technical roadmap, GTM integration, enterprise delivery, and major strategic accounts at this Series C Enterprise GenAI Enablement company.
         highlights:
-          - Relativity
-          - Description 2.
+          - "Architected and launched a Generative AI Agent Platform enabling autonomous workflow execution and multi-step decision automation across complex enterprise systems."
+          - "Built production retrieval and model-adaptation pipelines (GenBI, RAG, LoRA, embeddings tuning) enabling domain-specific reasoning without full retraining."
+          - "Reduced inference cost by 30%+ at scale through quantization, KV-cache optimization, batch scheduling, and GPU memory efficiency improvements."
+          - "Designed multi-region, multi-tenant AI infrastructure with zero-trust controls, governance, encryption, auditability, and SOC2+/HIPAA enterprise compliance."
+          - "Delivered an agentic orchestration runtime combining LLM planning with deterministic tool execution."
+          - "Implemented hybrid BM25 + neural embedding vector search and semantic memory layering to reduce hallucination loops."
+          - "Led evaluation frameworks for truthfulness, robustness, prompt leakage, and semantic drift monitoring."
+          - "Engaged directly with CIO/CTO stakeholders to define AI transformation roadmaps and close enterprise contracts."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Holomorphic AI Labs
+        position: Cofounder, Chief Executive Officer
+        location: Los Altos, CA
+        start_date: 2023-01-01
+        end_date: 2025-07-01
+        summary: >
+          Built enterprise-grade AI Agents that are safe and work reliably — a GenAI LLM agents and reasoning API platform.
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Led product on the Holomorphic agentic reasoning platform."
+          - "Applied GenAI expertise across financial services, marketing, and biotech/pharma."
+          - "Managed the PM organization working at the cutting edge of GenAI, agents, and reasoning."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Amazon Web Services (AWS)
+        position: Head of Product — Deep Learning, SageMaker
+        location: Palo Alto, CA
+        start_date: 2020-03-01
+        end_date: 2023-01-01
+        summary: >
+          Launched and scaled what became one of the largest AI platforms in the world.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Grew the business from zero to tens of thousands of weekly active users and multi-billion-dollar ARR."
+          - "Extensive experience in hyperscale ML model training, inference, and ML Ops across AI, GenAI, and traditional ML."
+          - "Worked across engineering, science, product, marketing, GTM strategy, sales, strategic accounts, and product strategy."
+
+      - company: McKinsey & Company
+        position: Expert — AI / Deep Learning Product
+        location: San Francisco Bay Area
+        start_date: 2015-07-01
+        end_date: 2020-02-01
+        highlights:
+          - "Led teams of applied scientists and engineers to build, train, and deploy ML models for the world's largest insurance (Auto, Health, P&C, ReInsurance), financial services, and pharma companies."
+          - "Drove AI strategy for global enterprises across financial services, insurance, and healthcare."
+
+      - company: Raniga Family Office and Charities
+        position: Strategic and Investment Advisor
+        location: Gold Coast, Queensland, Australia
+        start_date: 2012-06-01
+        summary: >
+          Advise the principal on technology investments, portfolio strategy, and governance across family estate and philanthropic initiatives.
+
+      - company: US Capital Global
+        position: Sr. Director PM — AI/ML Strategic Initiatives
+        location: San Francisco, CA
+        start_date: 2013-01-01
+        end_date: 2015-01-01
+        summary: >
+          Joined after SMB Adviser AI was acquired by US Capital Global; led AI/ML strategic initiatives.
+
+      - company: SMB Adviser AI
+        position: Cofounder, CEO
+        location: Palo Alto, CA
+        start_date: 2010-01-01
+        end_date: 2013-01-01
+        summary: >
+          Cofounded and led an early AI startup, acquired by US Capital Global in 2013.
+
+    Education:
+      - institution: The Wharton School, University of Pennsylvania
+        location: Philadelphia, PA
+        url: https://www.wharton.upenn.edu/
+        area: Business Administration
+        studyType: MBA
+
+      - institution: University of California, Berkeley
+        location: Berkeley, CA
+        url: https://www.berkeley.edu/
+        area: Mathematics and Statistics
+        studyType: Bachelor's degree
+
+      - institution: Mt. Carmel High School
+        location: San Diego, CA
+        studyType: High School
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: The Marvin Award
+        awarder: McKinsey & Company
+        summary: Internal recognition awarded by McKinsey & Company.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: McKinsey New Ventures Competition — International Finalist
+        awarder: McKinsey & Company
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: USA Mathematical Olympiad (USAMO)
+        awarder: Mathematical Association of America
+        summary: Qualified for the USA Mathematical Olympiad.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: AMC 12 — Perfect Score
+        awarder: Mathematical Association of America
+        summary: Achieved a perfect score on the AMC 12 mathematics competition.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: AI Platform & Agents
+        level: Expert
+        icon: fa-solid fa-robot
+        keywords: "GenAI agent platforms, agent harness optimization, LLM planning, tool use, agentic orchestration, RAG, LoRA, embeddings tuning, vector search (BM25 + neural), semantic memory"
+
+      - name: ML Systems & Inference
+        level: Expert
+        icon: fa-solid fa-microchip
+        keywords: "Hyperscale training & inference, quantization, KV cache optimization, batch scheduling, GPU efficiency, autoscaling, MLOps, latency engineering"
+
+      - name: Enterprise AI Strategy
+        level: Expert
+        icon: fa-solid fa-briefcase
+        keywords: "AI transformation roadmaps, CIO/CTO advisory, enterprise GTM, financial services, insurance, healthcare, oil & gas, supply chain, autonomous vehicles"
+
+      - name: Leadership
+        level: Expert
+        icon: fa-solid fa-users
+        keywords: "300+ global org leadership, Sr Director→IC stack across US/EU/APAC, Principal ML & Staff Architect bench building, benchmarking & reliability discipline"
+
+      - name: Product & Business
+        level: Expert
+        icon: fa-solid fa-chart-line
+        keywords: "Product strategy, corporate development, R&D, UX, product marketing, GTM, BD, finance, investments, financial analysis"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        summary: "Native / Bilingual"
