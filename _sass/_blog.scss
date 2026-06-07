@@ -39,6 +39,14 @@
   }
 }
 
+// Constrain blog post body to ~50 characters per line for comfortable reading.
+// `ch` unit = width of the "0" glyph in the current font, so this self-adjusts.
+// Only targets the post layout (article.post-content lives only in _layouts/post.liquid).
+.post > .post-content {
+  max-width: 50ch;
+  margin-inline: auto;
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;
