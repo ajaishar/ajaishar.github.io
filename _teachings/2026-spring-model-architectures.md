@@ -41,4 +41,4 @@ Materials will be added here as the course runs.
 
 ---
 
-*Course materials and schedule below will be filled in as the term progresses.*
+_Course materials and schedule below will be filled in as the term progresses._
