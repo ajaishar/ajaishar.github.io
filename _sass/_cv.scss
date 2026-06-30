@@ -7,6 +7,7 @@ div.container-link-button {
 }
 
 table.table-cv {
+  width: 100%;
   background-color: transparent !important;
 
   td,
@@ -44,7 +45,7 @@ a.btncv:hover {
 
 p.location {
   font-size: 0.7rem;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 i.iconlocation {
