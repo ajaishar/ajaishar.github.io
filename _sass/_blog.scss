@@ -48,6 +48,15 @@
   margin-inline: 0;
 }
 
+// On desktop, nudge the whole post column (title + body together, keeping the
+// flush-left alignment between them) ~18 characters to the right. Left untouched
+// on small screens so the narrow column never overflows.
+@media (min-width: 768px) {
+  .post {
+    margin-left: 18ch;
+  }
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;
