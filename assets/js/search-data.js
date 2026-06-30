@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-starting-these-notes",
+        },{id: "post-the-end-of-static-information",
+        
+          title: "The End of Static Information",
+        
+        description: "Information is shifting from something we retrieve to something that responds to how we understand it — and what that means for software, accessibility, and truth.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-end-of-static-information/";
+          
+        },
+      },{id: "post-starting-these-notes",
         
           title: "starting these notes",
         
