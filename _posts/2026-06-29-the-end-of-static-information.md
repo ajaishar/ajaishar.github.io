@@ -119,8 +119,6 @@ Which returns me to the oldest object in the argument. For five hundred years th
 
 ## Sources & Further Reading
 
-Cited in the essay, in order of appearance:
-
 - **Vannevar Bush, "As We May Think" (_The Atlantic_, 1945).** The essay that imagined the Memex and associative trails. [Essay](https://en.wikipedia.org/wiki/As_We_May_Think) · [Memex](https://en.wikipedia.org/wiki/Memex) · [Bush biography](https://en.wikipedia.org/wiki/Vannevar_Bush)
 - **Bret Victor, "Explorable Explanations" / Tangle (2011).** Reactive prose whose every degree of freedom was wired by hand, in advance. [Link](https://worrydream.com/Tangle/)
 - **Bayesian Knowledge Tracing (intelligent tutoring systems, 1990s).** A hidden estimate of a learner's latent mastery, used to choose what comes next — inside pre-authored skill domains. [Link](https://en.wikipedia.org/wiki/Bayesian_Knowledge_Tracing)
@@ -133,8 +131,5 @@ Cited in the essay, in order of appearance:
 - **Eli Pariser, _The Filter Bubble_ (2011).** Personalization sliding into intellectual isolation. [Link](https://en.wikipedia.org/wiki/Filter_bubble)
 - **The curb-cut effect.** Accommodations built for a few become conveniences for everyone. [Link](https://www.boia.org/blog/the-digital-curb-cut-effect-the-universal-benefits-of-web-accessibility)
 - **Peter Brusilovsky, "Methods and Techniques of Adaptive Hypermedia" (1996; expanded as "Adaptive Hypermedia," 2001).** The direct ancestor of the user-model-as-infrastructure idea: systems that model each user's goals, knowledge, and preferences, then adapt both content and navigation. [Link](https://link.springer.com/article/10.1023/A:1011143116306)
-
-Further reading (not cited directly):
-
 - **Peter Pirolli & Stuart Card, "Information Foraging" (_Psychological Review_, 1999; Xerox PARC).** People seek information the way animals forage for food, following "information scent" — the proximal cues, like links and citations, that hint at where understanding lies. [Link](https://www.nngroup.com/articles/information-foraging/)
 - **Eric Horvitz, "Principles of Mixed-Initiative User Interfaces" (CHI 1999).** An elegant account of coupling automated services with direct manipulation — humans and machines sharing control under uncertainty, and a useful frame for the reflection loop. [Link](http://erichorvitz.com/mixedinit.htm)
