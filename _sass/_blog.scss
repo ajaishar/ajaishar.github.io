@@ -48,12 +48,13 @@
   margin-inline: 0;
 }
 
-// On desktop, center the narrow reading column on the page. The post sits
-// directly inside the centered Bootstrap .container, so clamping .post to the
-// reading measure and using auto inline margins centers the whole column
-// (title + body together). Left full-width on small screens.
+// On desktop, center the narrow reading column on the page. Scoped to .blog-post
+// (set on the wrapper in _layouts/post.liquid) so ONLY blog posts get the narrow
+// centered column. Other layouts (page, cv, archive, profiles, book-review,
+// distill) also use .post and must stay full container width. Full-width on
+// small screens.
 @media (min-width: 768px) {
-  .post {
+  .blog-post {
     max-width: 50ch;
     margin-inline: auto;
   }
