@@ -7,6 +7,8 @@ tags: ai
 categories: essays
 ---
 
+{% include figure.liquid path="assets/img/end_of_static_information.png" class="img-fluid rounded z-depth-1" zoomable=true loading="eager" alt="Classical marble sculptures, a human brain, and a Greek column dissolving into neon light and sacred geometry" %}
+
 AI is not only changing how we find information. It is changing what information is.
 
 For most of the internet's history, information has been static. A page was written, published, and retrieved. Our job was to search for it, read it, and understand it. If the page was confusing or too technical, that was our problem. The interface could measure clicks, dwell time, or bounce rate, but it could not receive the one signal that matters most in the entire transaction: 
