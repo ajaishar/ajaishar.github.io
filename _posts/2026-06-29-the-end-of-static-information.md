@@ -17,7 +17,7 @@ That signal has historically been invisible to software.
 
 Search engines changed how information was discovered. Social networks changed how it was distributed. Language models changed how it could be synthesized. But the shift now underway is more fundamental than any of those, because it acts on the thing itself rather than on the plumbing: 
 
-information is about to become responsive to the process of being understood. Not retrieval, not generation, but understanding alignment, specifically the slow closing of the gap between what a thing says and what we take it to mean. Here's the story in three acts: 
+Information is about to become responsive to the process of being understood. Not retrieval, not generation, but understanding alignment, specifically the slow closing of the gap between what a thing says and what we take it to mean. Here's the story in three acts: 
 
 ## Act I: Static Information 
 *Where is it?*
