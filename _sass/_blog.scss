@@ -48,12 +48,14 @@
   margin-inline: 0;
 }
 
-// On desktop, nudge the whole post column (title + body together, keeping the
-// flush-left alignment between them) ~18 characters to the right. Left untouched
-// on small screens so the narrow column never overflows.
+// On desktop, center the narrow reading column on the page. The post sits
+// directly inside the centered Bootstrap .container, so clamping .post to the
+// reading measure and using auto inline margins centers the whole column
+// (title + body together). Left full-width on small screens.
 @media (min-width: 768px) {
   .post {
-    margin-left: 18ch;
+    max-width: 50ch;
+    margin-inline: auto;
   }
 }
 
